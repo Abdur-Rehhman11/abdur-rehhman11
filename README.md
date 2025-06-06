@@ -82,6 +82,7 @@ As I gained more experience, I expanded my expertise into mobile app development
 Over the past year, I’ve been actively working on integrating AI and Machine Learning into my projects, leveraging predictive models and intelligent systems to solve complex problems in industries like fintech, logistics, and SaaS. It’s like giving my code a "brain" to think for itself.Outside of coding, you can find me leveling up in gaming (yes, I’m a certified button masher), exploring the latest tech trends, and building a collection of random hobbies. Whether it's trying to outsmart AI in games or solving real-world problems with code, I’m always up for a new challenge. 
 </details>
 <hr>
+
 ## 📊 GitHub Stats
 
 
