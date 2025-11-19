@@ -5,7 +5,7 @@
 
 **`Digital Craftsman (Developer/Engineer/Trader)`**
 ---
-I'm a passionate software engineer with **4 years of experience** in developing **web and mobile applications**, implementing **AI + Machine Learning** solutions, and exploring **Blockchain** technologies. I started my career mastering **HTML, CSS, JavaScript**, then grew into full-stack development, mobile apps, and decentralized apps (DApps).  
+I'm a passionate software engineer with experience in developing **web and mobile applications**, implementing **AI + Machine Learning** solutions, and exploring **Blockchain** technologies. I started my career mastering **HTML, CSS, JavaScript**, then grew into full-stack development, mobile apps, and decentralized apps (DApps).  
 
 Alongside my tech ventures, I’m an active **forex & crypto trader**, applying data-driven strategies to the markets. When I’m not coding or trading, you’ll catch me gaming, experimenting with new tech, and dreaming up fresh ways to solve real-world problems.
 
