@@ -84,9 +84,6 @@ Over the past year, I’ve been actively working on integrating AI and Machine L
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdur-rehhman11&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdur-rehhman11&theme=radical" alt="GitHub Streaks" />
