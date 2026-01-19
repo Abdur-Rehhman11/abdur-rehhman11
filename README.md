@@ -38,11 +38,6 @@ I thrive on building impactful applications that solve real-world problems, deli
 - **Mobile App Development**: Crafting user-friendly, cross-platform apps with **Flutter**.  
 - **API Integration**: Connecting third-party services and creating custom APIs for scalable solutions.  
 - **Scalable Systems**: Designing high-performance systems for data-driven businesses, like dispatch systems and financial platforms
-- **AI & Machine Learning (NLP, predictive models, intelligent systems)
-- **Real-time SaaS & event-driven architectures
-- **Full-stack development with MERN and Laravel
-- **Mobile app development with Flutter
-- **API design & third-party integrations
 
 Scalable systems for fintech, logistics, and data-driven platforms
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
