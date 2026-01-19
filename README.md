@@ -7,9 +7,15 @@
 
 **`Digital Craftsman (Developer/Engineer/Trader)`**
 ---
-I'm a passionate software engineer with experience in developing **web and mobile applications**, implementing **AI + Machine Learning** solutions, and exploring **Blockchain** technologies. I started my career mastering **HTML, CSS, JavaScript**, then grew into full-stack development, mobile apps, and decentralized apps (DApps).  
+I’m a software engineer with experience building web and mobile applications, AI-powered systems, and scalable SaaS products that solve real-world problems. I started my journey with HTML, CSS, and JavaScript, then progressed into full-stack development, mobile apps, and decentralized applications (DApps), gaining a strong foundation across the modern web stack.  
 
-Alongside my tech ventures, I’m an active **forex & crypto trader**, applying data-driven strategies to the markets. When I’m not coding or trading, you’ll catch me gaming, experimenting with new tech, and dreaming up fresh ways to solve real-world problems.
+Over the past year, my focus has shifted heavily toward AI and Machine Learning, where I’ve been integrating predictive analytics, NLP-driven workflows, and recommendation systems into products across fintech, logistics, and SaaS. I enjoy designing systems that are not only intelligent, but also reliable, scalable, and production-ready.
+
+Alongside my engineering work, I’m an active forex and cryptocurrency trader, applying data-driven and analytical strategies to financial markets. This background strongly influences how I think about systems — performance, risk, data integrity, and decision-making under uncertainty.
+
+I’ve worked on a range of impactful products, including financial platforms, automatic dispatch systems for high-scale food delivery, real-time communication systems, and custom SaaS applications for niche business problems. I thrive at the intersection of engineering, data, and product thinking, with a strong emphasis on delivering measurable value to users and businesses.
+
+When I’m not coding or trading, you’ll find me gaming, experimenting with new technologies, exploring UI/UX motion design, or thinking through new ideas that combine technology, automation, and real-world problem solving.
 
 ## 🚀 What I’m Focused On
 
@@ -31,9 +37,18 @@ I thrive on building impactful applications that solve real-world problems, deli
 - **Full-Stack Web Development**: From front-end design to back-end optimization using the **MERN stack** and **Laravel**.  
 - **Mobile App Development**: Crafting user-friendly, cross-platform apps with **Flutter**.  
 - **API Integration**: Connecting third-party services and creating custom APIs for scalable solutions.  
-- **Scalable Systems**: Designing high-performance systems for data-driven businesses, like dispatch systems and financial platforms.
+- **Scalable Systems**: Designing high-performance systems for data-driven businesses, like dispatch systems and financial platforms
+- **AI & Machine Learning (NLP, predictive models, intelligent systems)
+- **Real-time SaaS & event-driven architectures
+- **Full-stack development with MERN and Laravel
+- **Mobile app development with Flutter
+- **API design & third-party integrations
+
+Scalable systems for fintech, logistics, and data-driven platforms
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-## ⚡ GitHub Activity Graph
+
+
+ ⚡ GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdur-rehhman11&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
